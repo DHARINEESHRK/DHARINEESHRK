@@ -1,21 +1,19 @@
-<h1 align="center">Hi there, I'm R.K. Dharineesh 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student · Aspiring Data Analyst · Technology Enthusiast
-</h3>
+<h1>Hi there, I'm R.K. Dharineesh 👋</h1>
 
-<p align="center">
-Turning data into insight and ideas into real-world projects.
-</p>
+<h3>Computer Science Engineering Student · Aspiring Data Analyst · Technology Enthusiast</h3>
 
-<p align="center">
+<p>Turning data into insight and ideas into real-world projects.</p>
+
 <a href="https://www.linkedin.com/in/dharineeshrk/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:dharineeshrk213@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:dharineeshrk213@gmail.com@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 <br/>
 
@@ -33,66 +31,82 @@ Turning data into insight and ideas into real-world projects.
 
 ## 🛠 Tech Stack
 
-**Languages & Databases**
+<div align="center">
 
-<p>
+**Languages & Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
-</p>
+
+<br/><br/>
+
+**Version Control & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<br/><br/>
 
 **Data Analytics**
-
-<p>
+<br/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
 
-**Version Control & Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<br/><br/>
 
 **AI Tools**
-
-<p>
+<br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,claude,githubcopilot,cursor" />
-</p>
+
+</div>
 
 <br/>
 
 ## 📊 Currently Learning
 
+<div align="center">
+
 | Area | Focus |
-|---|---|
+|:---:|:---:|
 | 📈 Power BI | Interactive dashboards & DAX |
 | 📊 SQL | Advanced querying & optimization |
 | 🐍 Python | Data analytics & automation |
 | 📉 Data Visualization | Storytelling with data |
 | 📂 Portfolio | Building real-world case studies |
 
+</div>
+
 <br/>
 
 ## 🚀 Featured Projects
 
-### ⭐ Sales Analytics Dashboard (Excel)
-Interactive sales dashboard built with Pivot Tables, Charts, KPIs, and Slicers, delivering actionable business insights.
-
-### ⭐ AI Career Mentor
-A career guidance platform powered by AI, helping users navigate career decisions with personalized recommendations.
-
-### ⭐ AI ChatBot
-A conversational AI project designed to answer user queries in real time.
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>⭐ Sales Analytics Dashboard</h3>
+<p>Interactive Excel dashboard using Pivot Tables, Charts, KPIs, and Slicers to surface actionable business insights.</p>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>⭐ AI Career Mentor</h3>
+<p>An AI-powered career guidance platform offering personalized recommendations to help users make informed decisions.</p>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>⭐ AI ChatBot</h3>
+<p>A conversational AI project built to understand and answer user queries in real time.</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DHARINEESHRK&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARINEESHRK&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+
+</div>
 
 <br/>
 
@@ -106,6 +120,6 @@ A conversational AI project designed to answer user queries in real time.
 
 <br/>
 
-<p align="center">
+<div align="center">
 <i>Thanks for stopping by — feel free to connect and collaborate!</i>
-</p>
+</div>
