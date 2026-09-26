@@ -70,6 +70,17 @@
 
 <br/>
 
+### 🤖 AI & Computer Vision
+
+<img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+
+<br/>
+
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="git, github, vscode, figma" />&nbsp;<img src="./assets/antigravity.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity" />
 
