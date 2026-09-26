@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Turning+data+into+insight;Building+with+Python+%26+SQL;Exploring+AI+%2B+Computer+Vision;Always+shipping+something+new&font=Fira+Code&center=true&width=600&height=50&color=8A7FFF&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Turning+data+into+insight;Building+with+Python+%26+SQL;Designing+ETL+%2B+data+pipelines;Always+shipping+something+new&font=Fira+Code&center=true&width=600&height=50&color=8A7FFF&vCenter=true&size=22&pause=1200&repeat=true"/>
 
 </div>
 
@@ -30,8 +30,7 @@
 - 📈 Comfortable with **Power BI, Excel, Pandas & NumPy**
 - 🔄 Learning and working with **ETL & data pipelines**
 - 🤖 Shipping projects that combine **AI & APIs**
-- 💻 Also work with **React, TypeScript, Node.js & Express**
-- 👁️ Hands-on with **OpenCV & YOLO** for computer vision
+- 💻 Also work with **React & Vite**
 - 🔧 Comfortable with **Git & GitHub**
 - 🚀 Always looking to build practical, real-world projects
 
@@ -67,15 +66,7 @@
 <br/>
 
 ### Web & Backend
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi,firebase&theme=dark"/>
-
-<br/>
-
-### AI & Computer Vision
-<img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-6C63FF?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-6C63FF?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=react,vite,firebase&theme=dark"/>
 
 <br/>
 
@@ -174,25 +165,6 @@ IoT-based irrigation system using sensors, ESP8266 and real-time environmental d
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHARINEESHRK&theme=react-dark&hide_border=true&area=true&color=8A7FFF&line=6C63FF&point=ffffff"/>
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DHARINEESHRK&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A7FFF&icon_color=6C63FF"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARINEESHRK&layout=compact&theme=tokyonight&hide_border=true&title_color=8A7FFF"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHARINEESHRK&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=8A7FFF"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DHARINEESHRK&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%"/>
 
 <div align="center">
 
