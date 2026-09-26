@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=R.K.%20Dharineesh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Data%20Engineering%20%7C%20AI&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=R.K.%20Dharineesh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Data%20Engineering%20%7C%20AI&descAlignY=52&descSize=18"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%"/>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
 ## 💡 About Me
 
@@ -34,7 +34,7 @@
 - 🔧 Comfortable with **Git & GitHub**
 - 🚀 Always looking to build practical, real-world projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%"/>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
 ## 🛠 Tech Stack
 
@@ -75,7 +75,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%"/>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
 ## 📚 Currently Learning
 
@@ -91,7 +91,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%"/>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
 ## 🚀 Featured Projects
 
@@ -144,7 +144,7 @@ IoT-based irrigation system using sensors, ESP8266 and real-time environmental d
 
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%"/>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
 ## 🐍 Contribution Snake
 
@@ -156,7 +156,7 @@ IoT-based irrigation system using sensors, ESP8266 and real-time environmental d
 
 > Add this once: create `.github/workflows/snake.yml` in this repo (see notes at the bottom) so the animation above renders automatically from your contribution graph.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%"/>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
 ## 📈 GitHub Activity
 
@@ -177,4 +177,4 @@ IoT-based irrigation system using sensors, ESP8266 and real-time environmental d
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/></p>
