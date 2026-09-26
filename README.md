@@ -150,19 +150,22 @@ IoT-based irrigation system using sensors, ESP8266 and real-time environmental d
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DHARINEESHRK/DHARINEESHRK/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHARINEESHRK/DHARINEESHRK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHARINEESHRK/DHARINEESHRK/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DHARINEESHRK/DHARINEESHRK/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
-> Add this once: create `.github/workflows/snake.yml` in this repo (see notes at the bottom) so the animation above renders automatically from your contribution graph.
-
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHARINEESHRK&theme=react-dark&hide_border=true&area=true&color=8A7FFF&line=6C63FF&point=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DHARINEESHRK&show_icons=true&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARINEESHRK&layout=compact&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="Top Languages" />
 
 </div>
 
