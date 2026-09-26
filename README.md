@@ -166,8 +166,12 @@ IoT-based irrigation system using sensors, ESP8266 and real-time environmental d
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=DHARINEESHRK&show_icons=true&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=DHARINEESHRK&show_icons=true&include_all_commits=true&hide=prs,issues&hide_rank=true&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DHARINEESHRK&layout=compact&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=DHARINEESHRK&theme=transparent&background=00000000&ring=8A7FFF&fire=8A7FFF&currStreakLabel=8A7FFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8A7FFF&dates=c9d1d9&border=6C63FF&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
