@@ -72,6 +72,8 @@
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Google_Antigravity-6C63FF?style=for-the-badge&logo=google&logoColor=white"/>
 
 </div>
 
@@ -164,8 +166,8 @@ IoT-based irrigation system using sensors, ESP8266 and real-time environmental d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DHARINEESHRK&show_icons=true&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARINEESHRK&layout=compact&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=DHARINEESHRK&show_icons=true&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DHARINEESHRK&layout=compact&bg_color=00000000&title_color=8A7FFF&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF&hide_border=true" alt="Top Languages" />
 
 </div>
 
