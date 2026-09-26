@@ -28,12 +28,13 @@
 - 📊 Focused on **Data Analytics & Data Engineering**
 - 🐍 Building with **Python & SQL**
 - 📈 Comfortable with **Power BI, Excel, Pandas & NumPy**
-- 🔄 Learning and working with **ETL & data pipelines**
+- 🔄 Working with **ETL, data cleaning & data pipelines**
 - 🤖 Shipping projects that combine **AI & APIs**
 - 💻 Also work with **React & Vite**
+- 👁️ Also worked with **OpenCV & YOLOv8**
 - 🔧 Comfortable with **Git & GitHub**
 - 🚀 Always looking to build practical, real-world projects
-
+  
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3"/></p>
 
 ## 🛠 Tech Stack
@@ -94,11 +95,11 @@
 
 | Area | Focus |
 |:---:|:---:|
-| 🗄️ SQL | Advanced SQL |
-| 🐍 Python | Data Engineering |
-| 🔄 ETL | Data Pipelines |
-| 🔌 APIs | Data Integration |
-| 🏗️ Data Engineering | Warehousing & Processing |
+| 🗄️ SQL | Advanced SQL & query optimization |
+| 🐍 Python | ETL & data processing |
+| 🏗️ Data Engineering | Data warehousing & pipelines |
+| 🔌 APIs | Data integration |
+| 📊 Analytics | Advanced Power BI & DAX |
 
 </div>
 
