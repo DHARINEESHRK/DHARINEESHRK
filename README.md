@@ -71,9 +71,7 @@
 <br/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Google_Antigravity-6C63FF?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="git, github, vscode, figma" />&nbsp;<img src="./assets/antigravity.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity" />
 
 </div>
 
