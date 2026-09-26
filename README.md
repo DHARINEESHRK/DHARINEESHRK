@@ -46,7 +46,7 @@
 <br/>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/>
 
 <br/>
 
@@ -65,8 +65,8 @@
 
 <br/>
 
-### Web & Backend
-<img src="https://skillicons.dev/icons?i=react,vite,firebase&theme=dark"/>
+### Web & Cloud
+<img src="https://skillicons.dev/icons?i=react,vite,firebase,aws&theme=dark"/>
 
 <br/>
 
