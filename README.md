@@ -42,7 +42,7 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
 
 <br/>
 
